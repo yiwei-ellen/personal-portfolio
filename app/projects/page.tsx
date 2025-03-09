@@ -72,7 +72,7 @@ export default function Projects() {
                 </div>
                 <div className="bg-gray-100">
                   <Image
-                    src="/stellabridge-logo.png?height=300&width=300"
+                    src="/personal-portfolio/stellabridge-logo.png"
                     alt="Project 1"
                     width={300}
                     height={300}
@@ -99,7 +99,7 @@ export default function Projects() {
                 </div>
                 <div className="bg-gray-100">
                   <Image
-                    src="/seattleshapers.jpg?height=300&width=300"
+                    src="/personal-portfolio/seattleshapers.jpg"
                     alt="Project 2"
                     width={300}
                     height={300}

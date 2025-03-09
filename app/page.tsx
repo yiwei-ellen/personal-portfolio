@@ -49,7 +49,7 @@ export default function Home() {
             <div className="justify-self-end">
               <div className="w-[400px] h-[400px] rounded-full overflow-hidden bg-gray-200">
                 <Image
-                  src="/face-portrait.png?height=400&width=400"
+                  src="/personal-portfolio/face-portrait.png"
                   alt="Profile photo"
                   width={400}
                   height={400}
@@ -130,9 +130,7 @@ export default function Home() {
             </div>
           </div>
           <div className="mt-8 text-sm text-gray-600 text-right">
-            © 2023 By Ellen Yan
-            <br />
-            Powered and secured by Wix
+            © 2025 By Ellen Yan
           </div>
         </div>
       </footer>

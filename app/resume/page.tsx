@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { Linkedin, Twitter } from "lucide-react"
+import "../globals.css"
 
 export default function Resume() {
   return (
